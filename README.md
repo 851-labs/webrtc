@@ -8,7 +8,7 @@ toolchain versions, GN arguments, archive SHA-256), `revisions.txt`, the GN argu
 architecture, and the generated third-party notices for macOS and iOS.
 
 ```swift
-.package(url: "https://github.com/851-labs/webrtc.git", exact: "152.0.0-codevisor.2")
+.package(url: "https://github.com/851-labs/webrtc.git", exact: "152.0.0-codevisor.3")
 ```
 
 WebRTC is licensed under the BSD license in `LICENSE`; the third-party notices for the bundled
